@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sunit
-- 👀 I’m interested in Web-App Development & DevOps
-- 🌱 I’m currently learning Java & DevOps
+- 👋 Hi, I’m Sunit
+- 👀 Enjoy playing with Data
+- 🌱 On my way to Success
 
 <!---
 CwsSunit/CwsSunit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
